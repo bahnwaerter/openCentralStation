@@ -1,0 +1,11 @@
+# Codeblocks
+*.depend
+*.layout
+
+# Output of Compiler
+*.o
+*.eep
+*.elf
+*.hex
+*.lss
+*.map
